@@ -11,7 +11,7 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 📞 **Phone**: 01731380156  
 📧 **Email**: alam01640882530@gmail.com  
 🌐 **Portfolio**: [protfolio2-wyzp.onrender.com](https://protfolio2-wyzp.onrender.com)  
-🗂️ **CV**: [View CV](#) <!-- এখানে তোমার Google Drive বা অন্য কোথাও থাকা CV লিংক বসিয়ে দিও -->
+🗂️ **CV**: [View CV](https://drive.google.com/file/d/1tbczJpxigvTIQ3WyvxEJcDHQD43xHODe/view?usp=sharing) <!-- এখানে তোমার Google Drive বা অন্য কোথাও থাকা CV লিংক বসিয়ে দিও -->
 
 🎓 **B.Sc. in Computer Science & Engineering**  
 🏫 **[BSMRSTU](https://www.bsmrstu.edu.bd/s/)**  

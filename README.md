@@ -1,6 +1,6 @@
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:222831&height=180&section=header&text=Hi,%20I'm%20Nazmul%20Alam!&fontSize=36&fontColor=fff)
 
-### 👨‍💻 Django Developer | 🌿 ML & IoT Enthusiast | 🎓 CSE Graduate (BSMRSTU)
+### 👨‍💻 Python Developer | 🌿 ML & IoT Enthusiast | 🎓 CSE Graduate (BSMRSTU)
 
 ---
 

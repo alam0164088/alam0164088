@@ -1,6 +1,6 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:222831&height=180§ion=header&text;color="fff",#00ADB5&fontSize=36&fontColor=fff)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:222831&height=180&section=header&text=Hi,%20I'm%20Nazmul%20Alam!&fontSize=36&fontColor=fff)
 
-### 👨‍💻 Django Developer | 🌿 ML & IoT Enthusiast | 🎓 CSE Graduate (BSMRSTU))
+### 👨‍💻 Django Developer | 🌿 ML & IoT Enthusiast | 🎓 CSE Graduate (BSMRSTU)
 
 ---
 
@@ -10,8 +10,8 @@ Hey there! I'm **Nazmul Alam**, a passionate developer blending **Python**, **Dj
 📍 **From**: Mymensingh, Bangladesh  
 📞 **Phone**: +8801731380156  
 📧 **Email**: [alam01640882530@gmail.com](mailto:alam01640882530@gmail.com)  
-🌐 **Portfolio**: [protfolio2-wyzp.onrender.com](https://protfolio2.wyzp.onrender.com)  
-🗂️ **CV**: [View CV](https://drive.google.com/file/d/1tbczJpxgvTIQ3WyvxEJcDHQD43xHODe/view?usp=sharing)  
+🌐 **Portfolio**: [protfolio2-wyzp.onrender.com](https://protfolio2-wyzp.onrender.com)  
+🗂️ **CV**: [View CV](https://drive.google.com/file/d/1tbczJpxigvTIQ3WyvxEJcDHQD43xHODe/view?usp=sharing)  
 
 🎓 **B.Sc. in Computer Science & Engineering**  
 🏫 **[BSMRSTU](https://www.bsmrstu.edu.bd/s/)**  
@@ -51,36 +51,18 @@ Hey there! I'm **Nazmul Alam**, a passionate developer blending **Python**, **Dj
 }
 
 .skill-card {
-  background: linear-gradient(145deg, #1a202c, #2d3748);
+  background: #1a202c;
   color: #d1d5db;
   padding: 20px 25px;
   border-radius: 12px;
-  border: 1px solid transparent;
-  background-clip: padding-box;
-  position: relative;
+  border: 1px solid #00ADB5;
   width: 320px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  animation: fadeIn 0.8s ease-out;
-}
-
-.skill-card::before {
-  content: '';
-  position: absolute;
-  inset: -1px;
-  border-radius: 12px;
-  background: linear-gradient(45deg, #00ADB5, #6B7280, #00ADB5);
-  z-index: -1;
-  opacity: 0.3;
-  transition: opacity 0.3s ease;
 }
 
 .skill-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 12px 24px rgba(0, 173, 181, 0.3);
-}
-
-.skill-card:hover::before {
-  opacity: 0.7;
 }
 
 .skill-card h2 {
@@ -90,7 +72,6 @@ Hey there! I'm **Nazmul Alam**, a passionate developer blending **Python**, **Dj
   font-size: 1.6rem;
   color: #00ADB5;
   letter-spacing: 0.8px;
-  text-transform: uppercase;
 }
 
 .skill-list {
@@ -122,7 +103,7 @@ Hey there! I'm **Nazmul Alam**, a passionate developer blending **Python**, **Dj
 }
 
 .skill-list li:hover .icon {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2);
 }
 
 /* Individual icon colors */
@@ -139,12 +120,6 @@ Hey there! I'm **Nazmul Alam**, a passionate developer blending **Python**, **Dj
 .templates { color: #092E20; }
 .responsive { color: #17A2B8; }
 .ui { color: #563D7C; }
-
-/* Animations */
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(15px); }
-  to { opacity: 1; transform: translateY(0); }
-}
 
 /* Responsive design */
 @media (max-width: 768px) {

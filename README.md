@@ -29,31 +29,47 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 40px; margin: 40px 0; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 50px; margin: 50px 0; flex-wrap: wrap; max-width: 900px;">
 
   <!-- Backend Card -->
-  <div style="background: #0B3D91; color: white; border-radius: 15px; box-shadow: 0 6px 18px rgba(0,0,0,0.2); padding: 25px 35px; width: 400px; min-width: 300px;">
-    <h2 style="text-align: center; margin-bottom: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">⚙️ Backend</h2>
-    <ul style="list-style: none; padding-left: 0; font-size: 18px; line-height: 1.7;">
-      <li>➡️ <strong>Python & Django</strong> <span style="color:#306998;">🐍</span> (MVT Architecture)</li>
-      <li>➡️ <strong>Django REST Framework</strong> <span style="color:#0096D6;">🔗</span> (API Development)</li>
-      <li>➡️ <strong>Databases:</strong> SQLite <span style="color:#003B57;">🗄️</span>, PostgreSQL <span style="color:#336791;">🐘</span></li>
-      <li>➡️ <strong>Machine Learning Integration</strong> <span style="color:#FF6F61;">🤖</span> (Keras, TensorFlow)</li>
-      <li>➡️ <strong>IoT & Sensor Data Processing</strong> <span style="color:#F4B400;">🌐</span></li>
-      <li>➡️ <strong>Payment Gateway Integration</strong> <span style="color:#2E86C1;">💳</span> (SSLCommerz)</li>
-      <li>➡️ <strong>Django Admin Customization</strong> <span style="color:#4CAF50;">🛠️</span></li>
+  <div style="
+    background: #1B262C; 
+    color: #BBE1FA; 
+    padding: 30px 35px; 
+    border-radius: 15px; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3); 
+    width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  ">
+    <h2 style="text-align: center; font-weight: 700; margin-bottom: 25px; color: #61ADEF;">⚙️ Backend Skills</h2>
+    <ul style="list-style: none; padding-left: 0; font-size: 18px; line-height: 2;">
+      <li>🔹 <strong>Python & Django</strong> <span style="color:#306998;">🐍</span> (MVT Architecture)</li>
+      <li>🔹 <strong>Django REST Framework</strong> <span style="color:#0096D6;">🔗</span> (API Development)</li>
+      <li>🔹 <strong>Databases:</strong> SQLite <span style="color:#003B57;">🗄️</span>, PostgreSQL <span style="color:#336791;">🐘</span></li>
+      <li>🔹 <strong>Machine Learning Integration</strong> <span style="color:#FF6F61;">🤖</span> (Keras, TensorFlow)</li>
+      <li>🔹 <strong>IoT & Sensor Data Processing</strong> <span style="color:#F4B400;">🌐</span></li>
+      <li>🔹 <strong>Payment Gateway Integration</strong> <span style="color:#2E86C1;">💳</span> (SSLCommerz)</li>
+      <li>🔹 <strong>Django Admin Customization</strong> <span style="color:#4CAF50;">🛠️</span></li>
     </ul>
   </div>
 
   <!-- Frontend Card -->
-  <div style="background: #222831; color: #eeeeee; border-radius: 15px; box-shadow: 0 6px 18px rgba(0,0,0,0.3); padding: 25px 35px; width: 400px; min-width: 300px;">
-    <h2 style="text-align: center; margin-bottom: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🎨 Frontend</h2>
-    <ul style="list-style: none; padding-left: 0; font-size: 18px; line-height: 1.7;">
-      <li>➡️ <strong>HTML5, CSS3, Bootstrap</strong> <span style="color:#E44D26;">🌐</span></li>
-      <li>➡️ <strong>JavaScript (Basic)</strong> <span style="color:#F7DF1E; color:black;">⚡</span></li>
-      <li>➡️ <strong>Django Templates</strong> <span style="color:#092E20;">🎭</span></li>
-      <li>➡️ <strong>Responsive Layouts</strong> <span style="color:#17A2B8;">📱</span></li>
-      <li>➡️ <strong>UI Enhancements with Bootstrap</strong> <span style="color:#563D7C;">🎨</span></li>
+  <div style="
+    background: #16213E; 
+    color: #E0E0E0; 
+    padding: 30px 35px; 
+    border-radius: 15px; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4); 
+    width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  ">
+    <h2 style="text-align: center; font-weight: 700; margin-bottom: 25px; color: #6AB0F3;">🎨 Frontend Skills</h2>
+    <ul style="list-style: none; padding-left: 0; font-size: 18px; line-height: 2;">
+      <li>🔸 <strong>HTML5, CSS3, Bootstrap</strong> <span style="color:#E44D26;">🌐</span></li>
+      <li>🔸 <strong>JavaScript (Basic)</strong> <span style="color:#F7DF1E; color:black;">⚡</span></li>
+      <li>🔸 <strong>Django Templates</strong> <span style="color:#092E20;">🎭</span></li>
+      <li>🔸 <strong>Responsive Layouts</strong> <span style="color:#17A2B8;">📱</span></li>
+      <li>🔸 <strong>UI Enhancements with Bootstrap</strong> <span style="color:#563D7C;">🎨</span></li>
     </ul>
   </div>
 

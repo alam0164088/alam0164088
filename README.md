@@ -28,52 +28,109 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 - 🧑‍🎓 [**Student Management System**](https://student-management-system-6p1f.onrender.com) – Admin panel, results & more
 
 ---
-
-<div style="display: flex; justify-content: center; gap: 50px; margin: 50px 0; flex-wrap: wrap; max-width: 900px;">
-
-  <!-- Backend Card -->
-  <div style="
-    background: #1B262C; 
-    color: #BBE1FA; 
-    padding: 30px 35px; 
-    border-radius: 15px; 
-    box-shadow: 0 8px 20px rgba(0,0,0,0.3); 
-    width: 400px;
+###skills
+<style>
+  .skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 60px 0;
+    flex-wrap: wrap;
+    max-width: 1000px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  ">
-    <h2 style="text-align: center; font-weight: 700; margin-bottom: 25px; color: #61ADEF;">⚙️ Backend Skills</h2>
-    <ul style="list-style: none; padding-left: 0; font-size: 18px; line-height: 2;">
-      <li>🔹 <strong>Python & Django</strong> <span style="color:#306998;">🐍</span> (MVT Architecture)</li>
-      <li>🔹 <strong>Django REST Framework</strong> <span style="color:#0096D6;">🔗</span> (API Development)</li>
-      <li>🔹 <strong>Databases:</strong> SQLite <span style="color:#003B57;">🗄️</span>, PostgreSQL <span style="color:#336791;">🐘</span></li>
-      <li>🔹 <strong>Machine Learning Integration</strong> <span style="color:#FF6F61;">🤖</span> (Keras, TensorFlow)</li>
-      <li>🔹 <strong>IoT & Sensor Data Processing</strong> <span style="color:#F4B400;">🌐</span></li>
-      <li>🔹 <strong>Payment Gateway Integration</strong> <span style="color:#2E86C1;">💳</span> (SSLCommerz)</li>
-      <li>🔹 <strong>Django Admin Customization</strong> <span style="color:#4CAF50;">🛠️</span></li>
+  }
+
+  .skill-card {
+    background: linear-gradient(145deg, #1f2937, #111827);
+    color: #e0e7ff;
+    padding: 35px 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(100, 100, 255, 0.2);
+    width: 420px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .skill-card:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 20px 40px rgba(100, 100, 255, 0.5);
+  }
+
+  .skill-card h2 {
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 30px;
+    font-size: 2.2rem;
+    color: #7f9cf5;
+    letter-spacing: 1.2px;
+  }
+
+  .skill-list {
+    list-style: none;
+    padding-left: 0;
+    font-size: 18px;
+    line-height: 2.4;
+  }
+
+  .skill-list li {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: default;
+  }
+
+  .skill-list li strong {
+    color: #bfdbfe;
+  }
+
+  .icon {
+    font-size: 1.3rem;
+  }
+
+  /* Individual icon colors */
+  .python { color: #306998; }
+  .django { color: #0096D6; }
+  .sqlite { color: #003B57; }
+  .postgres { color: #336791; }
+  .ml { color: #FF6F61; }
+  .iot { color: #F4B400; }
+  .payment { color: #2E86C1; }
+  .admin { color: #4CAF50; }
+  .html { color: #E44D26; }
+  .js { color: #F7DF1E; }
+  .templates { color: #092E20; }
+  .responsive { color: #17A2B8; }
+  .ui { color: #563D7C; }
+</style>
+
+<div class="skills-container">
+
+  <div class="skill-card">
+    <h2>⚙️ Backend Skills</h2>
+    <ul class="skill-list">
+      <li>➡️ <strong>Python & Django</strong> <span class="icon python">🐍</span> (MVT Architecture)</li>
+      <li>➡️ <strong>Django REST Framework</strong> <span class="icon django">🔗</span> (API Development)</li>
+      <li>➡️ <strong>Databases:</strong> SQLite <span class="icon sqlite">🗄️</span>, PostgreSQL <span class="icon postgres">🐘</span></li>
+      <li>➡️ <strong>Machine Learning Integration</strong> <span class="icon ml">🤖</span> (Keras, TensorFlow)</li>
+      <li>➡️ <strong>IoT & Sensor Data Processing</strong> <span class="icon iot">🌐</span></li>
+      <li>➡️ <strong>Payment Gateway Integration</strong> <span class="icon payment">💳</span> (SSLCommerz)</li>
+      <li>➡️ <strong>Django Admin Customization</strong> <span class="icon admin">🛠️</span></li>
     </ul>
   </div>
 
-  <!-- Frontend Card -->
-  <div style="
-    background: #16213E; 
-    color: #E0E0E0; 
-    padding: 30px 35px; 
-    border-radius: 15px; 
-    box-shadow: 0 8px 20px rgba(0,0,0,0.4); 
-    width: 400px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  ">
-    <h2 style="text-align: center; font-weight: 700; margin-bottom: 25px; color: #6AB0F3;">🎨 Frontend Skills</h2>
-    <ul style="list-style: none; padding-left: 0; font-size: 18px; line-height: 2;">
-      <li>🔸 <strong>HTML5, CSS3, Bootstrap</strong> <span style="color:#E44D26;">🌐</span></li>
-      <li>🔸 <strong>JavaScript (Basic)</strong> <span style="color:#F7DF1E; color:black;">⚡</span></li>
-      <li>🔸 <strong>Django Templates</strong> <span style="color:#092E20;">🎭</span></li>
-      <li>🔸 <strong>Responsive Layouts</strong> <span style="color:#17A2B8;">📱</span></li>
-      <li>🔸 <strong>UI Enhancements with Bootstrap</strong> <span style="color:#563D7C;">🎨</span></li>
+  <div class="skill-card">
+    <h2>🎨 Frontend Skills</h2>
+    <ul class="skill-list">
+      <li>➡️ <strong>HTML5, CSS3, Bootstrap</strong> <span class="icon html">🌐</span></li>
+      <li>➡️ <strong>JavaScript (Basic)</strong> <span class="icon js">⚡</span></li>
+      <li>➡️ <strong>Django Templates</strong> <span class="icon templates">🎭</span></li>
+      <li>➡️ <strong>Responsive Layouts</strong> <span class="icon responsive">📱</span></li>
+      <li>➡️ <strong>UI Enhancements with Bootstrap</strong> <span class="icon ui">🎨</span></li>
     </ul>
   </div>
 
 </div>
+
 
 
 ### 🧰 Tools & Technologies

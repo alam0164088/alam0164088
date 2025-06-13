@@ -10,10 +10,11 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 📍 **From**: Mymensingh, Bangladesh  
 📞 **Phone**: 01731380156  
 📧 **Email**: alam01640882530@gmail.com  
-🌐 **Portfolio**: *(https://protfolio2-wyzp.onrender.com/)*
+🌐 **Portfolio**: [protfolio2-wyzp.onrender.com](https://protfolio2-wyzp.onrender.com)  
+🗂️ **CV**: [View CV](#) <!-- এখানে তোমার Google Drive বা অন্য কোথাও থাকা CV লিংক বসিয়ে দিও -->
 
 🎓 **B.Sc. in Computer Science & Engineering**  
-🏫 **[Bangabandhu Sheikh Mujibur Rahman Science and Technology University (BSMRSTU)](https://www.bsmrstu.edu.bd/s/)**  
+🏫 **[BSMRSTU](https://www.bsmrstu.edu.bd/s/)**  
 📅 *2020 – 2024*
 
 ---
@@ -28,7 +29,28 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Skills
+
+#### ⚙️ Backend
+- Python, Django (MVT)
+- Django REST Framework (API Development)
+- SQLite, PostgreSQL
+- ML Integration (Keras, TensorFlow)
+- IoT & Sensor Data Processing
+- Payment Gateway (SSLCommerz)
+- Django Admin Customization
+
+#### 🎨 Frontend
+- HTML5, CSS3, Bootstrap
+- JavaScript (Basic)
+- Django Templates
+- Responsive Layouts
+- UI Enhancements with Bootstrap
+
+---
+
+### 🧰 Tools & Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,15 +62,17 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 ---
 
 ### 📊 GitHub Stats
-![Nazmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alam0164088&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alam0164088&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alam0164088&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam0164088&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-alam-803615325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-alam-803615325/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/nazmul.alam.99700/)
 
 ---

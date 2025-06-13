@@ -35,28 +35,32 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="top" align="left" style="padding-right: 40px;">
 
-**⚙️ Backend**
+<h3>⚙️ Backend</h3>
 
-- 🐍 **Python & Django** (MVT Architecture)  
-- 🔗 **Django REST Framework** (API Development)  
-- 🗄️ **Databases:** SQLite, PostgreSQL  
-- 🤖 **Machine Learning Integration:** Keras, TensorFlow  
-- 🌐 **IoT & Sensor Data Processing**  
-- 💳 **Payment Gateway Integration:** SSLCommerz  
-- 🛠️ **Django Admin Customization**
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>➡️ <strong>Python & Django</strong> <span style="color:#306998;">🐍</span> (MVT Architecture)</li>
+  <li>➡️ <strong>Django REST Framework</strong> <span style="color:#0096D6;">🔗</span> (API Development)</li>
+  <li>➡️ <strong>Databases:</strong> SQLite <span style="color:#003B57;">🗄️</span>, PostgreSQL <span style="color:#336791;">🐘</span></li>
+  <li>➡️ <strong>Machine Learning Integration</strong> <span style="color:#FF6F61;">🤖</span> (Keras, TensorFlow)</li>
+  <li>➡️ <strong>IoT & Sensor Data Processing</strong> <span style="color:#F4B400;">🌐</span></li>
+  <li>➡️ <strong>Payment Gateway Integration</strong> <span style="color:#2E86C1;">💳</span> (SSLCommerz)</li>
+  <li>➡️ <strong>Django Admin Customization</strong> <span style="color:#4CAF50;">🛠️</span></li>
+</ul>
 
     </td>
     <td width="50%" valign="top" align="left">
 
-**🎨 Frontend**
+<h3>🎨 Frontend</h3>
 
-- 🌐 **HTML5, CSS3, Bootstrap**  
-- ⚡ **JavaScript (Basic)**  
-- 🎭 **Django Templates**  
-- 📱 **Responsive Layouts**  
-- 🎨 **UI Enhancements with Bootstrap**
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>➡️ <strong>HTML5, CSS3, Bootstrap</strong> <span style="color:#E44D26;">🌐</span></li>
+  <li>➡️ <strong>JavaScript (Basic)</strong> <span style="color:#F7DF1E; color:black;">⚡</span></li>
+  <li>➡️ <strong>Django Templates</strong> <span style="color:#092E20;">🎭</span></li>
+  <li>➡️ <strong>Responsive Layouts</strong> <span style="color:#17A2B8;">📱</span></li>
+  <li>➡️ <strong>UI Enhancements with Bootstrap</strong> <span style="color:#563D7C;">🎨</span></li>
+</ul>
 
     </td>
   </tr>

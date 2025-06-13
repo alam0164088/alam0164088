@@ -31,23 +31,39 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 
 ### 💻 Tech Skills
 
-#### ⚙️ Backend
-- Python, Django (MVT)
-- Django REST Framework (API Development)
-- SQLite, PostgreSQL
-- ML Integration (Keras, TensorFlow)
-- IoT & Sensor Data Processing
-- Payment Gateway (SSLCommerz)
-- Django Admin Customization
+<div align="center">
 
-#### 🎨 Frontend
-- HTML5, CSS3, Bootstrap
-- JavaScript (Basic)
-- Django Templates
-- Responsive Layouts
-- UI Enhancements with Bootstrap
+<table>
+  <tr>
+    <td width="50%" valign="top" align="left">
 
----
+**⚙️ Backend**
+
+- 🐍 **Python & Django** (MVT Architecture)  
+- 🔗 **Django REST Framework** (API Development)  
+- 🗄️ **Databases:** SQLite, PostgreSQL  
+- 🤖 **Machine Learning Integration:** Keras, TensorFlow  
+- 🌐 **IoT & Sensor Data Processing**  
+- 💳 **Payment Gateway Integration:** SSLCommerz  
+- 🛠️ **Django Admin Customization**
+
+    </td>
+    <td width="50%" valign="top" align="left">
+
+**🎨 Frontend**
+
+- 🌐 **HTML5, CSS3, Bootstrap**  
+- ⚡ **JavaScript (Basic)**  
+- 🎭 **Django Templates**  
+- 📱 **Responsive Layouts**  
+- 🎨 **UI Enhancements with Bootstrap**
+
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ### 🧰 Tools & Technologies
 

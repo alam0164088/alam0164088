@@ -1,17 +1,17 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:222831&height=180&section=header&text=Hi,%20I'm%20Nazmul%20Alam!&fontSize=36&fontColor=fff)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:222831&height=180§ion=header&text;color="fff",#00ADB5&fontSize=36&fontColor=fff)
 
-### 👨‍💻 Django Developer | 🌿 ML & IoT Enthusiast | 🎓 CSE Graduate (BSMRSTU)
+### 👨‍💻 Django Developer | 🌿 ML & IoT Enthusiast | 🎓 CSE Graduate (BSMRSTU))
 
 ---
 
 ### 🚀 About Me
-Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, **Django**, and **Machine Learning** to build scalable, real-world applications. Whether it’s an e-commerce site, student management system, or an IoT-based agriculture solution — I enjoy solving problems with clean code and creative thinking.
+Hey there! I'm **Nazmul Alam**, a passionate developer blending **Python**, **Django**, and **Machine Learning** to build scalable, real-world applications. Whether it’s an e-commerce site, student management system, or an IoT-based agriculture solution — I enjoy solving problems with clean code and creative thinking.
 
 📍 **From**: Mymensingh, Bangladesh  
 📞 **Phone**: +8801731380156  
 📧 **Email**: [alam01640882530@gmail.com](mailto:alam01640882530@gmail.com)  
-🌐 **Portfolio**: [protfolio2-wyzp.onrender.com](https://protfolio2-wyzp.onrender.com)  
-🗂️ **CV**: [View CV](https://drive.google.com/file/d/1tbczJpxigvTIQ3WyvxEJcDHQD43xHODe/view?usp=sharing)  
+🌐 **Portfolio**: [protfolio2-wyzp.onrender.com](https://protfolio2.wyzp.onrender.com)  
+🗂️ **CV**: [View CV](https://drive.google.com/file/d/1tbczJpxgvTIQ3WyvxEJcDHQD43xHODe/view?usp=sharing)  
 
 🎓 **B.Sc. in Computer Science & Engineering**  
 🏫 **[BSMRSTU](https://www.bsmrstu.edu.bd/s/)**  
@@ -24,7 +24,7 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 - 🍃 [**Plant Disease Detection**](https://smart-urban-agri.onrender.com) – CNN-based plant disease detection with Django and IoT integration.
 - 📚 [**Dream Book**](https://dream-book-886q.onrender.com) – Online book library with search, reviews, and user authentication.
 - 🎥 [**MovieSite**](https://movisite-vsfl.onrender.com) – Browse, stream, and rate movies with a sleek UI.
-- 🛒 [**E-commerce Web**](https://e-commerce-web-in5m.onrender.com) – Full-featured e-commerce platform with SSLCommerz payment gateway.
+- 🛒 [**E-commerce Web**](https://e-commerce-state-in5m.onrender.com) – Full-featured e-commerce platform with SSLCommerz payment gateway.
 - 🧑‍🎓 [**Student Management System**](https://student-management-system-6p1f.onrender.com) – Admin panel for managing student records and results.
 
 ---
@@ -43,87 +43,133 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 .skills-container {
   display: flex;
   justify-content: center;
-  gap: 30px;
-  margin: 40px 0;
+  gap: 20px;
+  margin: 30px 0;
   flex-wrap: wrap;
-  max-width: 900px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 800px;
+  font-family: 'Roboto', 'Segoe UI', sans-serif;
 }
 
 .skill-card {
-  background: linear-gradient(145deg, #1f2937, #111827);
-  color: #e0e7ff;
-  padding: 25px 30px;
-  border-radius: 15px;
-  box-shadow: 0 8px 20px rgba(100, 100, 255, 0.15);
-  width: 350px;
+  background: linear-gradient(145deg, #1a202c, #2d3748);
+  color: #d1d5db;
+  padding: 20px 25px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  background-clip: padding-box;
+  position: relative;
+  width: 320px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: fadeIn 0.8s ease-out;
+}
+
+.skill-card::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: 12px;
+  background: linear-gradient(45deg, #00ADB5, #6B7280, #00ADB5);
+  z-index: -1;
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
 }
 
 .skill-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 15px 30px rgba(100, 100, 255, 0.4);
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0, 173, 181, 0.3);
+}
+
+.skill-card:hover::before {
+  opacity: 0.7;
 }
 
 .skill-card h2 {
   text-align: center;
-  font-weight: 700;
-  margin-bottom: 20px;
-  font-size: 1.8rem;
-  color: #7f9cf5;
-  letter-spacing: 1px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  font-size: 1.6rem;
+  color: #00ADB5;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
 }
 
 .skill-list {
   list-style: none;
   padding-left: 0;
-  font-size: 16px;
-  line-height: 2;
+  font-size: 14px;
+  line-height: 1.8;
 }
 
 .skill-list li {
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
-  gap: 10px;
-  cursor: default;
+  gap: 8px;
+  transition: color 0.3s ease;
+}
+
+.skill-list li:hover {
+  color: #00ADB5;
 }
 
 .skill-list li strong {
-  color: #bfdbfe;
+  color: #e5e7eb;
 }
 
 .icon {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  transition: transform 0.3s ease;
+}
+
+.skill-list li:hover .icon {
+  transform: scale(1.2) rotate(5deg);
 }
 
 /* Individual icon colors */
-.python { color: #306998; }
-.django { color: #0096D6; }
+.python { color: #3776AB; }
+.django { color: #092E20; }
 .sqlite { color: #003B57; }
 .postgres { color: #336791; }
 .ml { color: #FF6F61; }
 .iot { color: #F4B400; }
 .payment { color: #2E86C1; }
 .admin { color: #4CAF50; }
-.html { color: #E44D26; }
+.html { color: #E34F26; }
 .js { color: #F7DF1E; }
 .templates { color: #092E20; }
 .responsive { color: #17A2B8; }
 .ui { color: #563D7C; }
 
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
   .skill-card {
     width: 100%;
-    max-width: 320px;
-    padding: 20px 25px;
+    max-width: 280px;
+    padding: 15px 20px;
   }
   .skill-card h2 {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
   }
   .skill-list {
-    font-size: 14px;
+    font-size: 13px;
+  }
+  .icon {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .skills-container {
+    gap: 15px;
+  }
+  .skill-card {
+    max-width: 100%;
   }
 }
 </style>
@@ -197,3 +243,4 @@ Hey there! I'm **Nazmul Alam**, a passionate web developer blending **Python**, 
 ---
 
 > _“Code like it's your superpower — and change the world one script at a time.”_ 💥
+
